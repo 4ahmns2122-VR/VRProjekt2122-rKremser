@@ -20,7 +20,12 @@ In this game, you are trapped in a maze. In the maze there are dangerous moving 
 3. 13.01.2022 / full game without graphics / Completed
 
 ### Development platform: 
-OS: MacOS, Game Engine: Unity 2020.3.18f1, Visual Studio 2019, XR Interaction Toolkit
+OS: MacOS 
+Game Engine: Unity 2020.3.18f1
+Coding: Visual Studio 2019
+Music & Sound: Ableton Live 11 Suite
+3D Models: Blender
+VR: XR Interaction Toolkit
 
 ## Software/Hardware Requirements: 
 Oculus hardware requirements https://support.oculus.com/248749509016567/

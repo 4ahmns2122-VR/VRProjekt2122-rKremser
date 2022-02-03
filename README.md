@@ -39,6 +39,8 @@ Oculus Rift/S
 <img src="./Screenshots/spikes.png" width="250">
 <img src="./Screenshots/radio.png" width="250">
 <img src="./Screenshots/dance.png" width="250">
+<img src="./Screenshots/vid_spikes.mov" width="250">
+<img src="./Screenshots/vid_radio.mov" width="250">
 </div>
 
 ### Third party material: 

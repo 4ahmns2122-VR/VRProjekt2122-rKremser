@@ -35,7 +35,11 @@ You need a VR headset in this case an Oculus Rift/Quest/Quest2
 Oculus Rift/S; Quest/2
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src="./Screenshots/spikes.png" width="250">
+<img src="./Screenshots/radio.png" width="250">
+<img src="./Screenshots/dance.png" width="250">
+</div>
 
 ### Third party material: 
 XR Divice Simulator

@@ -32,7 +32,7 @@ Oculus hardware requirements https://support.oculus.com/248749509016567/
 You need a VR headset in this case an Oculus Rift/Quest/Quest2
 
 ### Target platform: 
-Oculus Rift/S; Quest/2
+Oculus Rift/S
 
 ### Visuals: 
 <div>
